@@ -33,5 +33,5 @@ lub w dowolnym edytorze, z którego korzystamy.<br>
 Po uruchomienie pliku otworzy się okno aplikacji, z której możemy korzystać lokalnie.
 
 ## Demo aplikacji
-<img src="readme_videos/game_over_demo.gif" alt="game over demo" width="750"/>
+<img src="readme_videos/game_over_demo.gif" alt="game over demo" width="500px"/>
 
