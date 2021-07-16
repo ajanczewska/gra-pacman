@@ -24,12 +24,12 @@ Należy pobrać następujące pliki znajdujące się w repozytorium:
 
 Następne kroki należy wykonać z poziomu folderu, w którym znajdują się pobrane pliki.<br>
 Należy uruchomić plik <b><em>main.py</em></b>.<br>
-Można to zrobić z poziomu wiersza poleceń wpisując w nim następujące polecenie:
+Można to zrobić z wiersza poleceń wpisując w nim następujące polecenie:
 
 ```shell
 python main.py
 ```
-lub w dowolnym edytorze, z którego korzystamy.<br>
+lub w dowolnym edytorze, z którego korzystamy.<br><br>
 Po uruchomienie pliku otworzy się okno aplikacji, z której możemy korzystać lokalnie.
 
 ## Demo aplikacji
